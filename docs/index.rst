@@ -3,6 +3,12 @@ Already Purchased — TurboTax Desktop Software — Here’s Download, Install a
 
 If you have already bought TurboTax and are looking for the easiest way to get started again, you are in the right place. Many users often search for how to **Download turbotax already purchased** and how to **install turbotax with license code** without running into errors. Whether you are reinstalling the software on a new device or setting it up after a system reset, understanding how to **Download turbotax already purchased** is essential. This guide will walk you through how to **Download turbotax already purchased**, complete installation, and **install turbotax with license code** so you can start using your software without hassle.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://turbotaxdesk.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Turbotax</a>
+   </div>
+
 Introduction to TurboTax Desktop Software
 ----------------------------------------
 
