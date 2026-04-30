@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Personal Turbotax'
+project = 'Design Hub'
 copyright = '2026'
-author = 'Ann Gillen'
+author = 'Woolley'
 
 release = '1.0'
 
